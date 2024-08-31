@@ -6,7 +6,6 @@
 
 I'm a  Computer Science student at the University of Northern British Columbia with a passion for software development and a keen interest in artificial intelligence. I’m currently focusing on frontend development, but I have experience across various technologies and languages. 
 
-I'm a second-year Computer Science student at the University of Northern British Columbia with a passion for software development and a keen interest in artificial intelligence. I’m currently focusing on frontend development, but I have experience across various technologies and languages. 
 
 
 
@@ -23,4 +22,14 @@ I'm a second-year Computer Science student at the University of Northern British
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+## 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/el-hadji-sall-3ab5822a1/">
+   <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+          
+- **Twitter:** [Your Twitter Handle](#)
+- **Email:** [Your Email Address](#)
+
+Feel free to check out my repositories and reach out if you have any questions or opportunities to collaborate!
 
