@@ -1,0 +1,70 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Here’s a structured approach for your GitHub README profile to highlight your aspirations and skills as a software engineer:\r\n\r\n---\r\n\r\n# \uD83D\uDC4B Hi, I'm El Hadji Sall!\r\n\r\n## \uD83D\uDE80 Aspiring Software Engineer\r\n\r\nI'm a second-year Computer Science student at the University of Northern British Columbia with a passion for software development and a keen interest in artificial intelligence. I’m currently focusing on frontend development, but I have experience across various technologies and languages. \r\n\r\n## \uD83D\uDCBB Skills & Technologies\r\n\r\n- **Languages:** Python, Java, JavaScript, TypeScript, CSS, HTML\r\n- **Frameworks/Libraries:** React, Node.js, Next.js, Tailwind CSS\r\n- **Tools:** Git, GitHub, Docker, Maven\r\n- **AI & Algorithms:** Minimax, Data Structures, Algorithms\r\n- **Projects:** Pokerogue AI, Task Management App, ScoreFour\r\n\r\n## \uD83D\uDCDA Currently Learning\r\n\r\n- **Frontend Development:** Deepening my knowledge in React, TypeScript, and Next.js\r\n- **LeetCode:** Practicing problem-solving with daily coding challenges\r\n- **Data Structures & Algorithms:** Improving my understanding and application\r\n\r\n## \uD83C\uDF1F Projects\r\n\r\n- **[Pokerogue AI](#):** A strategic AI for the Pokerogue game using Minimax algorithm.\r\n- **[ScoreFour](#):** A two-player game where players align four beads to win, with both text-based and GUI interfaces.\r\n- **[Task Management App](#):** A backend project using Spring Boot, with APIs and cloud deployment.\r\n\r\n## \uD83D\uDCC8 Goals\r\n\r\n- Secure a software engineering internship by summer 2025.\r\n- Enhance my skills in AI and frontend development.\r\n- Contribute to open-source projects and collaborate with other developers.\r\n\r\n\r\nFeel free to check out my repositories and reach out if you have any questions or opportunities to collaborate!\r\n\r\n---\r\n\r\nThis structure provides a clear overview of who you are, your skills, current learning focus, and goals. It also highlights your projects and provides ways for people to connect with you.\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 6216985279b2adf8b71e6d637a5bc1cb5204c661)
++++ b/README.md	(date 1725082210392)
+@@ -1,42 +1,27 @@
+-Here’s a structured approach for your GitHub README profile to highlight your aspirations and skills as a software engineer:
+ 
+----
+-
+-# 👋 Hi, I'm El Hadji Sall!
++# 👋 Hi, I'm El hadji!
+ 
+ ## 🚀 Aspiring Software Engineer
+ 
++<<<<<<< HEAD
++I'm a  Computer Science student at the University of Northern British Columbia with a passion for software development and a keen interest in artificial intelligence. I’m currently focusing on frontend development, but I have experience across various technologies and languages. 
++=======
+ I'm a second-year Computer Science student at the University of Northern British Columbia with a passion for software development and a keen interest in artificial intelligence. I’m currently focusing on frontend development, but I have experience across various technologies and languages. 
+ 
+-## 💻 Skills & Technologies
+-
+-- **Languages:** Python, Java, JavaScript, TypeScript, CSS, HTML
+-- **Frameworks/Libraries:** React, Node.js, Next.js, Tailwind CSS
+-- **Tools:** Git, GitHub, Docker, Maven
+-- **AI & Algorithms:** Minimax, Data Structures, Algorithms
+-- **Projects:** Pokerogue AI, Task Management App, ScoreFour
+ 
+-## 📚 Currently Learning
++---
+ 
+-- **Frontend Development:** Deepening my knowledge in React, TypeScript, and Next.js
+-- **LeetCode:** Practicing problem-solving with daily coding challenges
+-- **Data Structures & Algorithms:** Improving my understanding and application
++## 💻 Languages & Technologies
++<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
++<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
++<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
++<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
++<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
++<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
++<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
++<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
++<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
++<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
++<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ 
+-## 🌟 Projects
+ 
+-- **[Pokerogue AI](#):** A strategic AI for the Pokerogue game using Minimax algorithm.
+-- **[ScoreFour](#):** A two-player game where players align four beads to win, with both text-based and GUI interfaces.
+-- **[Task Management App](#):** A backend project using Spring Boot, with APIs and cloud deployment.
+-
+-## 📈 Goals
+-
+-- Secure a software engineering internship by summer 2025.
+-- Enhance my skills in AI and frontend development.
+-- Contribute to open-source projects and collaborate with other developers.
+-
+-
+-Feel free to check out my repositories and reach out if you have any questions or opportunities to collaborate!
+-
+----
+-
+-This structure provides a clear overview of who you are, your skills, current learning focus, and goals. It also highlights your projects and provides ways for people to connect with you.
