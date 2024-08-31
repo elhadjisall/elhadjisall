@@ -36,8 +36,9 @@ I'm a second-year Computer Science student at the University of Northern British
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/el-hadji-sall-3ab5822a1/](#)
-- **Email:** [elhadjisall2005@gmail.com](#)
+- **LinkedIn:** (https://www.linkedin.com/in/el-hadji-sall-3ab5822a1/)(#)
+- **Twitter:** [Your Twitter Handle](#)
+- **Email:** [Your Email Address](#)
 
 Feel free to check out my repositories and reach out if you have any questions or opportunities to collaborate!
 
