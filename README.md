@@ -34,11 +34,6 @@ I'm a second-year Computer Science student at the University of Northern British
 - Enhance my skills in AI and frontend development.
 - Contribute to open-source projects and collaborate with other developers.
 
-## 📫 Connect with Me
-
-- **LinkedIn:** (https://www.linkedin.com/in/el-hadji-sall-3ab5822a1/)(#)
-- **Twitter:** [Your Twitter Handle](#)
-- **Email:** [Your Email Address](#)
 
 Feel free to check out my repositories and reach out if you have any questions or opportunities to collaborate!
 
