@@ -27,6 +27,7 @@ I'm a  Computer Science student at the University of Northern British Columbia w
 <a href="https://www.linkedin.com/in/el-hadji-sall-3ab5822a1/">
    <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
+
           
 - **Twitter:** [Your Twitter Handle](#)
 - **Email:** [Your Email Address](#)
