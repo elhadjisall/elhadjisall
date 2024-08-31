@@ -6,7 +6,7 @@
 
 ## 🚀 Aspiring Software Engineer
 
-I'm a Computer Science student at the University of Northern British Columbia with a passion for software development and a interest in artificial intelligence. I’m currently focusing on frontend development, but I have experience across various technologies and languages.
+### I'm a Computer Science student at the University of Northern British Columbia with a passion for software development and a interest in artificial intelligence. I’m currently focusing on frontend development, but I have experience across various technologies and languages.
 
 ## 💻 Languages & Technologies
 
