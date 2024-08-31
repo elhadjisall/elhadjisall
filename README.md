@@ -4,7 +4,7 @@
 ## 🚀 Aspiring Software Engineer
 
 
-I'm a  Computer Science student at the University of Northern British Columbia with a passion for software development and a keen interest in artificial intelligence. I’m currently focusing on frontend development, but I have experience across various technologies and languages. 
+I'm a  Computer Science student at the University of Northern British Columbia with a passion for software development and a keen interest in artificial intelligence. I’m currently focusing on frontend development, but I have experience across various technologies and languages.
 
 
 
@@ -28,9 +28,12 @@ I'm a  Computer Science student at the University of Northern British Columbia w
    <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 
-          
-- **Twitter:** [Your Twitter Handle](#)
-- **Email:** [Your Email Address](#)
+<a href="elhadjisall2005@gmail.com">
+   <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="images/icons8-gmail-48.png" />
+</a>
 
-Feel free to check out my repositories and reach out if you have any questions or opportunities to collaborate!
+
+
+### 
+###  Feel free to check out my repositories and reach out if you have any questions or opportunities to collaborate!
 
