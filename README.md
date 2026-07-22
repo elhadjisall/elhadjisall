@@ -1,44 +1,24 @@
+# Hi, I'm El Hadji 👋
 
+Computer Science student at the University of Northern British Columbia, interested in software development and AI.
 
----
+## Languages & Technologies
 
-# 👋 Hi, I'm El Hadji!
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) 
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg) 
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg) 
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg) 
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) 
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) 
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg) 
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg) 
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) 
+![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
 
-## 🚀 Aspiring Software Engineer
+## Connect with Me
 
-### I'm a Computer Science student at the University of Northern British Columbia with a passion for software development and a interest in artificial intelligence.
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/el-hadji-sall-3ab5822a1/)
+&nbsp;
+[![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:elhadjisall2005@gmail.com)
 
-## 💻 Languages & Technologies
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<br clear="left"/>
-
-## 📫 Connect with Me
-
-<a href="https://www.linkedin.com/in/el-hadji-sall-3ab5822a1/">
-   <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a>
-
-<a href="mailto:elhadjisall2005@gmail.com">
-   <img align="left" alt="Gmail" width="30px" style="padding-right:10px;" src="images/icons8-gmail-48.png" />
-</a>
-
-<br clear="left"/>
-
-### 
-
-### Feel free to check out my repositories and reach out if you have any questions or opportunities to collaborate!
-
---- 
-
+Feel free to check out my repos and reach out if you'd like to collaborate!
