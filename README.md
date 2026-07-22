@@ -1,24 +1,25 @@
 # Hi, I'm El Hadji 👋
 
-Computer Science student at the University of Northern British Columbia, interested in software development and AI.
+Computer Science student at the University of Northern British Columbia, interested in software development, systems, and AI.
 
 ## Languages & Technologies
 
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) 
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg) 
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg) 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg) 
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) 
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg) 
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg) 
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) 
-![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,go,js,ts,react,nextjs,nodejs,flask,postgres,mongodb,docker,git,linux,aws,pytorch&perline=9" height="40" />
+</p>
 
 ## Connect with Me
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/el-hadji-sall-3ab5822a1/)
-&nbsp;
-[![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:elhadjisall2005@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="mailto:YOUR-EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
 
-Feel free to check out my repos and reach out if you'd like to collaborate!
+Feel free to check out my repositories and reach out if you'd like to collaborate!
